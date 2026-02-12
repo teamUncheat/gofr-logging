@@ -1,7 +1,6 @@
 module gofr.dev
 
 go 1.21
-
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.1
 	github.com/go-sql-driver/mysql v1.7.1
@@ -19,7 +18,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.21.0
 	golang.org/x/term v0.16.0
 	google.golang.org/grpc v1.60.1
-	google.golang.org/protobuf v1.32.0
+	google.golang.org/protobuf v1.36.9
 )
 
 require (
